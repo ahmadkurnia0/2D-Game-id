@@ -1,0 +1,21 @@
+{
+  "name": "2d-game-id",
+  "displayName": "2D Game",
+  "version": "1.0.0.0.0.0",
+  "description": "Built with APK Builder",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"test\""
+  },
+  "keywords": [
+    "cordova",
+    "android"
+  ],
+  "author": "APK Builder",
+  "license": "MIT",
+  "devDependencies": {},
+  "cordova": {
+    "platforms": [],
+    "plugins": {}
+  }
+}
